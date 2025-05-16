@@ -1,4 +1,4 @@
-<img src="CityQR.png" width="200" height="200">
+<img src="home.png" width="200" height="200">
 
 # 2025年
 ## 課程名稱 : 智慧城市導論 <br>
