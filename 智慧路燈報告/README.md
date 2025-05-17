@@ -48,4 +48,8 @@
 ## 基地台的偽裝
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TclvuuvRyiQ" target="_blank"><img src="http://img.youtube.com/vi/TclvuuvRyiQ/0.jpg" 
 alt="基地台的偽裝" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube
+<br>影片取自 youtube<br><br>
+
+<img src="https://github.com/Hsuanyu311/school11302/blob/main/%E6%99%BA%E6%85%A7%E8%B7%AF%E7%87%88%E5%A0%B1%E5%91%8A/image2.jpg" width="400"  height="200">
+<br>5G 機台 施工照片 來源：NOKIA YouTube
+
